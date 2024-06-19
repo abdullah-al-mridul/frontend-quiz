@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-background {
+  background: #313e51;
+  height: 100vh;
+}
+
+.p-inputswitch-slider {
+  background: #a829f5;
+}
+
+.p-progressbar {
+  background: #3c4d69;
+}
+
+.p-progressbar-value {
+  background: #a62af4;
+}/*# sourceMappingURL=style.css.map */
